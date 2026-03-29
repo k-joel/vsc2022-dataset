@@ -137,5 +137,5 @@ cython_debug/
 .DS_Store
 
 # VSC2022 Dataset
-./metadata
-./videos
+metadata/
+videos/
